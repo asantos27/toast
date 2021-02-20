@@ -1,0 +1,46 @@
+{
+    "spending": [
+      {
+        "name": "Starbucks",
+        "amount": 14.50,
+        "category": "food"
+      },
+      {
+        "name": "Starbucks",
+        "amount": 7.89,
+        "category": "food"
+      },
+      {
+        "name": "Starbucks",
+        "amount": 10.03,
+        "category": "food"
+      },
+      {
+        "name": "Cookout",
+        "amount": 11.26,
+        "category": "food"
+      },
+      {
+        "name": "Cookout",
+        "amount": 23.47,
+        "category": "food"
+      },{
+        "name": "Target",
+        "amount": 46.25,
+        "category": "retail"
+      }
+      ,{
+        "name": "Target",
+        "amount": 14.17,
+        "category": "retail"
+      },
+      {
+        "name": "Walmart",
+        "amount": 31.56
+      },
+      {
+        "name": "Walmart",
+        "amount": 12.64
+      }
+    ]
+  }
